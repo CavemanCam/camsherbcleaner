@@ -11,19 +11,16 @@ A Microbot plugin that automatically cleans herbs from your bank or inventory.
 
 ## Installation
 
-### Option 1: Sideloading with Microbot Github Plugin
+### Quick Installation with GitHub Plugin
 
-1. Download the `CamsHerbCleaner.jar` file from this repository
-2. Make sure the Microbot Github plugin is enabled in your Microbot client
-3. Place the JAR file in a directory of your choice
-4. In the Microbot Github plugin settings, add the path to your JAR file
-5. Reload plugins or restart your client
+1. In your Microbot client, make sure the GitHub plugin is enabled
+2. Open the GitHub plugin settings
+3. Click "Add Repo URL"
+4. Enter this repository URL: `https://github.com/CavemanCam/camsherbcleaner.git`
+5. Click "Add"
+6. The plugin will be automatically loaded
 
-### Option 2: Manual Installation
-
-1. Download the `CamsHerbCleaner.jar` file
-2. Place it in your Microbot plugins directory (typically `~/.runelite/plugins`)
-3. Restart your Microbot client
+That's it! No need to download any files manually.
 
 ## Usage
 
